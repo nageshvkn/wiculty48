@@ -5,4 +5,5 @@ public class Login
 	    sffsf
 	    s
 	    f
+	    public static void main(String args[])
 }
